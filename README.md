@@ -9,7 +9,7 @@
 - 🆔 **MSSV**: 2180601761
 - 📧 **Gmail**: nguyentuankhanh106@gmail.com
 - 🐱 **Github**: [https://github.com/KhanhTuan0705](https://github.com/KhanhTuan0705)
-- 🔗 **Link Project Proposal**: [KhanhTuan0705/Project-Proposal](https://github.com/KhanhTuan0705/Project-Proposal)
+- 🔗 **Link Project Proposal**: [KhanhTuan0705/Project-Proposal](https://khanhtuan0705.github.io/project-proposal-workshop/)
 
 ---
 
