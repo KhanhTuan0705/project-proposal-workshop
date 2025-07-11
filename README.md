@@ -80,9 +80,9 @@ Giải pháp này sẽ giúp doanh nghiệp tiết kiệm chi phí và cải thi
 # 4. 🔧 **Technical Implementation**
 
 ### **Implementation Phases và Deliverables**
-1. **Phase 1**: Thiết kế hệ thống và lựa chọn dịch vụ AWS (2 tuần)
-2. **Phase 2**: Phát triển và triển khai Lambda functions, cấu hình GuardDuty, SNS (4 tuần)
-3. **Phase 3**: Kiểm thử và triển khai toàn bộ hệ thống (4 tuần)
+1. **Phase 1**: Thiết kế hệ thống và lựa chọn dịch vụ AWS (1 tuần)
+2. **Phase 2**: Phát triển và triển khai Lambda functions, cấu hình GuardDuty, SNS (1 tuần)
+3. **Phase 3**: Kiểm thử và triển khai toàn bộ hệ thống (1 tuần)
 
 ### **Technical Requirements**
 - **Compute**: AWS Lambda (miễn phí 1 triệu lượt gọi mỗi tháng)
@@ -154,5 +154,3 @@ Giải pháp này sẽ giúp doanh nghiệp tiết kiệm chi phí và cải thi
 - Giải pháp có thể mở rộng và áp dụng cho nhiều hệ thống AWS trong tương lai.
 
 ---
-
-Đây là **Proposal** chi tiết cho dự án của bạn với **AWS GuardDuty** và **Lambda**, được viết theo dạng **Markdown**.
